@@ -1,0 +1,9 @@
+D 'spmstardh': (m-STAR) Multiparametric Spatio Temporal AutoRegressive Regression (Spatial Durbin Multiplicative Heteroscedasticity Cross Sections Models) Use spmstardh With STATA 19
+D
+F spmstardh.ado
+F spmstardh.dlg
+F spmstardh.sthlp
+F spmstardh1.ado
+F spmstardh2.ado
+F spmstardh3.ado
+F spmstardh4.ado
